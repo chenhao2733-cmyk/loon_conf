@@ -3,7 +3,7 @@
 #!author=pocky
 
 [Script]
-http-response ^https?:\/\/portal\.zjzwfw\.gov\.cn\/app_api\/appHome\/selectStartPic script-path=https://raw.githubusercontent.com/你的用户名/你的仓库名/main/scripts/zlb_startpic.js, requires-body=true, timeout=30, tag=ZLB StartPic data={}
+http-response ^https?:\/\/portal\.zjzwfw\.gov\.cn\/app_api\/appHome\/selectStartPic script-path=https://raw.githubusercontent.com/chenhao2733-cmyk/loon_conf/refs/heads/main/scripts/zlb_startpic.js, requires-body=true, timeout=30, tag=ZLB StartPic data={}
 
 [MITM]
 hostname = portal.zjzwfw.gov.cn
