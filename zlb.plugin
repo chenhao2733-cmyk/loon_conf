@@ -1,5 +1,5 @@
 #!name=浙里办 开屏图处理
-#!desc=portal.zjzwfw.gov.cn selectStartPic：将响应 JSON 的 data 替换为 {}
+#!desc=浙里办 开屏图处理
 #!author=pocky
 
 [Script]
