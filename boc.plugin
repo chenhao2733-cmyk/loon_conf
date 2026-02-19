@@ -1,0 +1,10 @@
+#!name=中国银行 缤纷生活 去广告
+#!desc=开屏广告拦截
+#!author=pocky
+
+[URL Rewrite]
+# 开屏广告
+^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?txnId=2PIC000001 reject-200
+
+[MITM]
+hostname = mlife.jf365.boc.cn
