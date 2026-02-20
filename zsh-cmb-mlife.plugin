@@ -1,6 +1,6 @@
 #!name=掌上生活 去广告
 #!desc=开屏广告/设置栏目广告/首页弹窗 拦截
-#!author=DT
+#!author=pocky
 
 [URL Rewrite]
 # 开屏广告

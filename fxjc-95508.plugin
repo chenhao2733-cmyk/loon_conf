@@ -1,6 +1,6 @@
 #!name=发现精彩 去广告
 #!desc=开屏广告拦截
-#!author=DT
+#!author=pocky
 
 [URL Rewrite]
 # 开屏广告
