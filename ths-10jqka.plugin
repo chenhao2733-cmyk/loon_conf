@@ -1,0 +1,16 @@
+#!name=同花顺 去广告
+#!desc=推荐广告/启动配置/开屏广告 拦截
+#!author=pocky
+
+[URL Rewrite]
+# 推荐广告
+^https?:\/\/adm\.10jqka\.com\.cn\/interface\/ad\/recommend reject-200
+
+# 启动配置/开屏广告
+^https?:\/\/iphone\.ac\.qq\.com\/.*\/Support\/(getSystemConf|bootScreen) reject
+
+# 同花顺至尊版广告（感谢【梭哈 All in】分享）
+^https?:\/\/stat\.10jqka\.com\.cn\/q\?ld=mobile&id=ad reject-dict
+
+[MITM]
+hostname = adm.10jqka.com.cn, iphone.ac.qq.com, stat.10jqka.com.cn
