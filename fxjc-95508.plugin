@@ -1,7 +1,7 @@
 #!name=发现精彩 去广告
 #!desc=开屏广告拦截
 #!author=pocky
-#!icon=https://icon.horse/icon/95508.com
+#!icon=https://raw.githubusercontent.com/chenhao2733-cmyk/loon_conf/main/icons/fxjc-95508.png
 
 [URL Rewrite]
 # 开屏广告
