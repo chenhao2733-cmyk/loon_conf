@@ -1,7 +1,7 @@
 #!name=掌上生活 去广告
 #!desc=开屏广告/设置栏目广告/首页弹窗 拦截
 #!author=pocky
-#!icon=https://raw.githubusercontent.com/chenhao2733-cmyk/loon_conf/main/icons/zsh-cmb-mlife.png
+#!icon=https://cdn.jsdelivr.net/gh/chenhao2733-cmyk/loon_conf@main/icons/zsh-cmb-mlife.png?v=20260220
 
 [URL Rewrite]
 # 开屏广告

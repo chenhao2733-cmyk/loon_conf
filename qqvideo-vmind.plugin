@@ -1,7 +1,7 @@
 #!name=QQ Video VMind 处理
 #!desc=QQ Video VMind 处理
 #!author=pocky
-#!icon=https://raw.githubusercontent.com/chenhao2733-cmyk/loon_conf/main/icons/qqvideo-vmind.png
+#!icon=https://cdn.jsdelivr.net/gh/chenhao2733-cmyk/loon_conf@main/icons/qqvideo-vmind.png?v=20260220
 
 [URL Rewrite]
 ^https?:\/\/[\d\.:]*\/?(defaultts\.tc|vmind\.qqvideo\.tc|finderpdd\.video)\.qq\.com\/\w+ reject
