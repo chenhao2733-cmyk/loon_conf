@@ -1,7 +1,7 @@
 #!name=duolingo
 #!desc=duolingo
 #!author=Takagivegeta
-#!icon=https://raw.githubusercontent.com/chenhao2733-cmyk/loon_conf/main/icons/duolingo.png
+#!icon=https://raw.githubusercontent.com/chenhao2733-cmyk/loon_conf/main/icons/duolingo_202602201700.png
 
 [Script]
 # 1. 精确匹配根路径或者 .html 结尾的请求，返回 HTML 框架
