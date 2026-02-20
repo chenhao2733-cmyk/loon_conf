@@ -1,7 +1,7 @@
 #!name=去哪儿 去广告
 #!desc=去哪儿 开屏广告拦截
 #!author=pocky
-#!icon=https://cdn.jsdelivr.net/gh/chenhao2733-cmyk/loon_conf@main/icons/qunaer.png?v=20260220
+#!icon=https://raw.githubusercontent.com/chenhao2733-cmyk/loon_conf/main/icons/qunaer.png
 
 [URL Rewrite]
 ^https?:\/\/qde\.qunar\.com\/preload reject-200
