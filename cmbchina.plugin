@@ -1,0 +1,13 @@
+#!name=招商银行 去广告
+#!desc=开屏广告/首页横幅广告 拦截
+#!author=pocky
+
+[URL Rewrite]
+# 开屏广告
+^https?:\/\/webappcfg\.paas\.cmbchina\.com\/v\d\/func\/getmarketconfig reject-200
+
+# 首页横幅广告
+^https?:\/\/mbmodule-openapi\.paas\.cmbchina\.com\/graphic\/v2\/module\/graphic reject-dict
+
+[MITM]
+hostname = webappcfg.paas.cmbchina.com, mbmodule-openapi.paas.cmbchina.com
