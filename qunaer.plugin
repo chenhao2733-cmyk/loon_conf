@@ -1,6 +1,7 @@
 #!name=去哪儿 去广告
 #!desc=去哪儿 开屏广告拦截
 #!author=pocky
+#!icon=https://icon.horse/icon/qunar.com
 
 [URL Rewrite]
 ^https?:\/\/qde\.qunar\.com\/preload reject-200

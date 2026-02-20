@@ -1,6 +1,7 @@
 #!name=同花顺 去广告
 #!desc=推荐广告/启动配置/开屏广告 拦截
 #!author=pocky
+#!icon=https://icon.horse/icon/10jqka.com.cn
 
 [URL Rewrite]
 # 推荐广告

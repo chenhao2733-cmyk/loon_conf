@@ -1,6 +1,7 @@
 #!name=招商银行 去广告
 #!desc=开屏广告/首页横幅广告 拦截
 #!author=pocky
+#!icon=https://icon.horse/icon/www.cmbchina.com
 
 [URL Rewrite]
 # 开屏广告
