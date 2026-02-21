@@ -1,0 +1,18 @@
+# Binance/Crypto rules (merged from blackmatrix7 + local additions)
+# Source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Binance/Binance.list
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,crypto.com
