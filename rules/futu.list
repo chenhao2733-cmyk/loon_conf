@@ -1,0 +1,22 @@
+# Futu / moomoo rules
+# Source requested:
+# - https://raw.githubusercontent.com/harwinvoid/proxy-rule/refs/heads/main/hk_broker.list
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futunn.hk
+DOMAIN-SUFFIX,futunn.sg
+DOMAIN-SUFFIX,futunn.com.sg
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuapi.com
+DOMAIN-SUFFIX,futufund.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhkcc.com
+DOMAIN-SUFFIX,futusg.com
+DOMAIN-SUFFIX,futusg.com.sg
+DOMAIN-SUFFIX,futusgcc.com
+DOMAIN-SUFFIX,futusl.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.com.sg
+DOMAIN-SUFFIX,moomoo.com.my
+DOMAIN-SUFFIX,moomooapp.com
+DOMAIN-SUFFIX,moomooapp.com.sg
+DOMAIN-SUFFIX,moomooapp.com.my

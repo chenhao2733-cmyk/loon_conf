@@ -1,0 +1,21 @@
+# Interactive Brokers rules
+# Source:
+# - https://github.com/blackmatrix7/ios_rule_script/issues/1683
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkr.com.cn
+DOMAIN-SUFFIX,ibkr.com.hk
+DOMAIN-SUFFIX,ibkr.com.sg
+DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,ibkr.info
+DOMAIN-SUFFIX,ibkrweb.com
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.au
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.com.sg
+DOMAIN-SUFFIX,interactivebrokers.eu
+DOMAIN-SUFFIX,interactivebrokers.ie
+DOMAIN-SUFFIX,interactivebrokers.co.jp
+DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,ibllc.com
