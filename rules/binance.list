@@ -1,11 +1,6 @@
-# Binance rules (blackmatrix7 + issue #1400 + local additions)
-# Sources:
-# - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Binance/Binance.list
-# - https://github.com/blackmatrix7/ios_rule_script/issues/1400
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,binancefuture.com
@@ -15,4 +10,10 @@ DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.com
-DOMAIN,www.binance.info
+PROCESS-NAME,*Binance Helper*
+DOMAIN-KEYWORD,binance
+DOMAIN,festream.saasexch.co
+DOMAIN-SUFFIX,binance.info
+DOMAIN,d3sknckuh1o9tg.cloudfront.net
+DOMAIN-KEYWORD,saasexch
+DOMAIN-KEYWORD,yingwangtech
