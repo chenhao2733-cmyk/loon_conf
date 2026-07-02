@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,safe.global
 DOMAIN-SUFFIX,sardine.ai
 DOMAIN-SUFFIX,turnkey.com
 DOMAIN-SUFFIX,magic.link
+DOMAIN-SUFFIX,magiclabs.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.eu
@@ -26,3 +27,4 @@ DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN,polymarket-upload.s3.us-east-2.amazonaws.com
+DOMAIN,s3-r-w.us-east-2.amazonaws.com
