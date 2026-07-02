@@ -1,30 +1,32 @@
-# Polymarket supplement domains (static discovery + local capture targets)
+# Polymarket rules (Chrome DevTools page capture + wallet/login support)
+
+# Core app, API, CLOB, images, and RSC routes.
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,polymarket.us
-DOMAIN-SUFFIX,polymarket.io
+DOMAIN-SUFFIX,polymarket.sh
+DOMAIN,polymarket-upload.s3.us-east-2.amazonaws.com
+DOMAIN,s3-r-w.us-east-2.amazonaws.com
+
+# Embedded wallet, on-ramp, and RPC dependencies observed or used by Polymarket.
+DOMAIN-SUFFIX,fun.xyz
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,moonpay.com
 DOMAIN-SUFFIX,privy.io
-DOMAIN-SUFFIX,privy.systems
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,walletconnect.com
 DOMAIN-SUFFIX,reown.com
-DOMAIN-SUFFIX,alchemy.com
-DOMAIN-SUFFIX,infura.io
-DOMAIN-SUFFIX,moonpay.com
-DOMAIN-SUFFIX,fun.xyz
 DOMAIN-SUFFIX,safe.global
-DOMAIN-SUFFIX,sardine.ai
-DOMAIN-SUFFIX,turnkey.com
 DOMAIN-SUFFIX,magic.link
 DOMAIN-SUFFIX,magiclabs.com
+
+# Support, telemetry, and feature/config services observed from the page.
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,grcv.io
+DOMAIN-SUFFIX,sc-static.net
 DOMAIN-SUFFIX,debugbear.com
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN,polymarket-upload.s3.us-east-2.amazonaws.com
-DOMAIN,s3-r-w.us-east-2.amazonaws.com
